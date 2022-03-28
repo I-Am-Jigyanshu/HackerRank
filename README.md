@@ -1,5 +1,6 @@
 # HackerRank-Python-Practice
 Python practice problems submissions done by me on HackerRank
+Here are the solutions of the Hackerrank problems through python
 
 [Python HackerRank Gold Badge](https://www.hackerrank.com/chandrikadeb7?hr_r=1&badge=python&stars=5&level=3&social=linkedin)
 
